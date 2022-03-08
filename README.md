@@ -1,5 +1,3 @@
-### KeyBoard - projekt na PI
+# Simple digital piano
 
-Zgodnie z deklaracj¹, mój projekt to niewielkie wirtualne pianino, stworzone w œrodowisku QT Creator.
-Jako dodatek, stworzy³em prost¹ minigierkê, która pozwala poæwiczyæ znajomoœæ nut.
-
+This project, created as a part of "Imperative Programming" course, aims to create a simple digital piano app. It also contains a small minigame, that allows its user to test his knowledge of reading notes from sheet music.
